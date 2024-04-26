@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lemonade</string>
+    <string name="lemmon_tree">Lemmon tree</string>
+    <string name="tap_the_lemon_tree_to_select_a_lemon">Tap the lemon tree to select a lemon</string>
+</resources>
