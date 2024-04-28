@@ -120,9 +120,8 @@ fun LemonadeApp(modifier: Modifier = Modifier) {
         Text(
             text = stringResource(textStringRes),
             fontSize = 18.sp,
-            fontWeight = FontWeight.Bold,
         )
-        Text(text = "$qtdToDo")
+        //Text(text = "$qtdToDo")
     }
 }
 
